@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @utkukoca
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on smart contract
+- 🌱 I’m currently learning Cairo
 - 📫 How to reach me utkukoca43@gmail.com
 
 <!---
