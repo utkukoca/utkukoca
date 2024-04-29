@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @utkukoca
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Cairo
 - 📫 How to reach me utkukoca43@gmail.com
 
 <!---
